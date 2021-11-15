@@ -1,5 +1,5 @@
 # WebTestTool
-是采用vue+nodejs+express 进行编写的，部署在linux上
+是采用vue+nodejs+express 进行编写的，部署在linux上（已去掉敏感信息）
 
 1.前端代码在ToolFront，通过npm install安装依赖包
 
